@@ -1,0 +1,2 @@
+# Solitare
+Fifty cards are then dealt from the stock, left to right, one to each column of a ten-column tableau, continuing dealing an additional card to each column, until each column has five cards.  The remaining two cards are dealt to the middle two of the cells, again left to right.  The cells are above the tableau and centered.  Each cell can contain at most one card. The order of the initial deal is important to match tests. All cards are visible, a.k.a. face up. This program allows you to play seavenheaven a form of solitaire game. 
